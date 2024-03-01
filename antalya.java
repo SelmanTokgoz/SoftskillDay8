@@ -1,5 +1,5 @@
 public class antalya {
     public static void main(String[] args) {
-        int x =5;
+        int x =7;
     }
 }
